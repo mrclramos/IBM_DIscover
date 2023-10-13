@@ -1,1 +1,1 @@
-# IBM_DIscover
+# IBM_Discover
